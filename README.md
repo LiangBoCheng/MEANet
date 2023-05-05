@@ -6,7 +6,8 @@ We provide saliency maps of our MEANet on ORSSD and EORSSD datasets in './MEANet
 # Training
 Run train_MEANet.py.
 # Pre-trained model and testing
-Download the following pre-trained model and put them in ./models/MEANet/, then run test_MEANet.py.
-[MEANet_EORSSD](https://pan.baidu.com/s/1uowO3bZHL45hZ875xhhTYA)(code:lbc0)
+Download the following pre-trained model and put them in ./models/MEANet/, then run test_MEANet.py.  
+[MEANet_EORSSD](https://pan.baidu.com/s/1uowO3bZHL45hZ875xhhTYA) (code:lbc0)  
+[MEANet_ORSSD](https://pan.baidu.com/s/1I14LsveMLB-F08XCAsZqEg) (code:lbc1)
 # Evaluation Tool
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
