@@ -1,5 +1,6 @@
 # MEANet
-The code for MEANet will be available as soon as possible.
+# Requirements
+python 3.7 + pytorch 1.9.0
 # Saliency maps
 We provide saliency maps of our MEANet on ORSSD and EORSSD datasets in './MEANet_results.zip'
 # Evaluation Tool
