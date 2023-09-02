@@ -2,7 +2,8 @@
 # Requirements
 python 3.7 + pytorch 1.9.0
 # Saliency maps
-We provide saliency maps of our MEANet on ORSSD and EORSSD datasets in './MEANet_results.zip'
+We provide saliency maps of our MEANet on ORSSD and EORSSD datasets in './MEANet_results.zip'  
+We also provide saliency maps of our MEANet on natural scene images in [DUT-O](https://pan.baidu.com/s/1HC0nLaURFVOvUPetNu5_hA?pwd=MEAN) (code:MEAN)
 # Training
 Run train_MEANet.py.
 # Pre-trained model and testing
