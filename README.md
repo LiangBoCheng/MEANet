@@ -1,4 +1,8 @@
 # MEANet
+This project provides the code and results for 'MEANet: An Effective and Lightweight Solution for Salient Object Detection in Optical Remote Sensing Images', ESWA, 2023.
+[Link](https://doi.org/10.1016/j.eswa.2023.121778)
+# Network Architecture
+![image text]()
 # Requirements
 python 3.7 + pytorch 1.9.0
 # Saliency maps
