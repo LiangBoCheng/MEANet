@@ -18,3 +18,5 @@ Download the following pre-trained model and put them in ./models/MEANet/, then 
 [MEANet_DUTS-TR](https://pan.baidu.com/s/174WPQjH9Dvl82NE-7vXaqQ?pwd=MEAN) (code:MEAN)
 # Evaluation Tool
 You can use the [evaluation tool (MATLAB version)](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the above saliency maps.
+# Acknowledgement
+We would like to thank the contributors to the [MCCNet](https://github.com/MathLee/MCCNet).
