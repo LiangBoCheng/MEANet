@@ -4,7 +4,7 @@ This project provides the code and results for 'MEANet: An Effective and Lightwe
 # Network Architecture
 ![image text](https://github.com/LiangBoCheng/MEANet/blob/main/model/MEANet.png)
 # Requirements
-python 3.7 + pytorch 1.9.0
+python 3.7 + pytorch 1.9.0 + imageio 2.22.2
 # Saliency maps
 We provide saliency maps of our MEANet on [ORSSD](https://pan.baidu.com/s/1E2NzJgVGeoeuhsGV1GSCSQ?pwd=MEAN) and [EORSSD](https://pan.baidu.com/s/1tPQXluovwlSliWhoWEepNw?pwd=MEAN) datasets and additional [ORSI-4199](https://pan.baidu.com/s/1Zbwtl8Fm25POB2McjEsT8Q?pwd=MEAN) datasets.  
 We also provide saliency maps of our MEANet on [DUT-O](https://pan.baidu.com/s/1HC0nLaURFVOvUPetNu5_hA?pwd=MEAN) (code:MEAN), [DUTS-TE](https://pan.baidu.com/s/1etx9GEXYGxzFfjhYan_OfA?pwd=MEAN) (code:MEAN), [HKU-IS](https://pan.baidu.com/s/1iC3CWOlcOgJA1sgymwlF8w?pwd=MEAN) (code:MEAN), [ECSSD](https://pan.baidu.com/s/1J-2sWr7VQP3DFU89ZlMmWw?pwd=MEAN) (code:MEAN), [PASCALS](https://pan.baidu.com/s/1aMqhG_KA8ic7vHGegnyKjA?pwd=MEAN) (code:MEAN)
